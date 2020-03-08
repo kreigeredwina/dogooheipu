@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeghaequo.trialfire.com/sitemap.xml
